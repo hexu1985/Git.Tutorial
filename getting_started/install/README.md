@@ -1,4 +1,4 @@
-## Git 安装配置
+## Git 安装
 
 Git 各平台安装包下载地址为：<http://git-scm.com/downloads>
 
