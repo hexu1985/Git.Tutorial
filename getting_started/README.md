@@ -7,3 +7,5 @@
 - [Git 创建仓库](creating_repository/README.md)
 - [Git 基本操作](basic_operation/README.md)
 - [Git 分支管理](branch/README.md)
+- [Git 查看提交历史](commit_history/README.md)
+- [Git 标签](tag/README.md)
